@@ -1,5 +1,5 @@
 # this repository is for cat images like this!
-![screenshot 1](https://raw.githubusercontent.com/GJ-u/closed-caption-cats/master/letschat.jpg)
+![screenshot 1](https://raw.githubusercontent.com/GJ-u/closed-caption-cats/master/cates/letschat.jpg)
 
 # contributing!
 - the font used is similar to this? http://www.ccfonts.com/cinecav-mono/
