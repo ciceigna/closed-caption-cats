@@ -3,6 +3,8 @@
 
 # contributing!
 - the font used is similar to this? http://www.ccfonts.com/cinecav-mono/
+- the image should be 710 x 473 px (width x height)
+- please put your name in the commit :]
 - begin the caption with an indication of tone, for example: ```[ MENACINGLY ]```
 - name the image after the text in the caption, such as: ```letschat.jpg```
 
